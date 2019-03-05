@@ -1,4 +1,4 @@
 FROM alpine:latest
 MAINTAINER dapgit <dapgit@gmail.com>
 
-CMD echo "Hello World!"
+CMD echo "Hello Devu. Testing the Build!"
